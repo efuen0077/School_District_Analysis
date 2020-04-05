@@ -28,3 +28,6 @@ Explain how your PyCitySchools analysis changes after you handle the incorrect d
 4. Merge the clean student data with the school dataset. The column order for all the DataFrames and number formatting should  
    be the same as what was covered in this module.
 5. After replacing the reading and math scores, complete the following steps and answer the questions for each step.
+
+### Analysis
+
