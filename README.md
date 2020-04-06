@@ -24,7 +24,13 @@ Explain how your PyCitySchools analysis changes after you handle the incorrect d
 
 1. Create a duplicate of PyCitySchools.ipynb and rename it PyCitySchools_Challenge.ipynb.
 2. Correct the students' names so there are no professional prefixes or suffixes.
+
+[Challenge_Practice.ipynb.zip](https://github.com/efuen0077/School_District_Analysis/files/4435871/Challenge_Practice.ipynb.zip)
+
+
 3. Replace the reading and math scores for ninth graders at Thomas High School with NaN.
+
+
 4. Merge the clean student data with the school dataset. The column order for all the DataFrames and number formatting should  
    be the same as what was covered in this module.
 5. After replacing the reading and math scores, complete the following steps and answer the questions for each step.
