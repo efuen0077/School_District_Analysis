@@ -43,6 +43,11 @@ If one were to go ahead and replace all 9th grade math and reading scores at Tho
 
 The district summary would be affected in that passing scores for math and reading under the "Charter" category would slightly decrease. Passing Math and Reading scores are 94% and 97% respectively BEFORE the 9th grade math and reading scores at Thomas High School are replaced with NaN. Passing Math and Reading scores are 94% and 97% respectively AFTER the 9th grade math and reading scores at Thomas High School are replaced with NaN. Overall passing percentage goes from 90% to 87% once these scores are replaced.
 
+##### Before NaN
+
+<img width="727" alt="T  Summary before NaN" src="https://user-images.githubusercontent.com/62089134/82404104-402e7a80-9a15-11ea-97aa-756a3923d8c1.png">
+
+##### After NaN
 <img width="743" alt="Type Summary" src="https://user-images.githubusercontent.com/62089134/82404027-0eb5af00-9a15-11ea-85a0-51688818cfeb.png">
 
 
